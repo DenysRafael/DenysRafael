@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Denys Santos
 
-<!--
-**DenysRafael/DenysRafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Estudante de Engenharia da Computação na UNISAL**
 
-Here are some ideas to get you started:
+Busco minha primeira oportunidade profissional (Estágio ou Júnior) focado em desenvolvimento Backend. Tenho experiência prática na criação de APIs robustas e integração com bancos de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+*   **Back-end:** Java (Spring Boot)
+*   **Front-end:** JavaScript, HTML, CSS
+*   **Banco de Dados:** PostgreSQL, SQL
+*   **Linguagens Adicionais:** C (formação técnica em Informática)
+
+## 📌 Projeto em Destaque
+*   **Bank API:** Sistema bancário completo com funcionalidades de cadastro, depósitos e saques. Desenvolvido com Java e Spring Boot, integrado a um banco de dados PostgreSQL e hospedado no Railway.
+    
+
+## 🌍 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denyssantos-/)
+
+## 🎯 Objetivo
+Atuar como desenvolvedor back-end, contribuindo com soluções eficientes e aplicando meus conhecimentos em lógica de sistemas e o ecossistema Java.
