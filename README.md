@@ -1,48 +1,67 @@
-<h1 align="center">👋 Olá, eu sou o Denys Santos</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Denys+Santos;Backend+Developer+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+PostgreSQL" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  💻 Estudante de Engenharia da Computação na UNISAL, em busca da primeira oportunidade profissional (Estágio ou Júnior) em desenvolvimento Backend.
-</p>
-
-<p align="center">
-  Tenho experiência prática na construção de APIs REST robustas, modelagem e integração com bancos de dados relacionais.
+  <img src="https://komarev.com/ghpvc/?username=DenysRafael&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=6DB33F&style=flat" />
 </p>
 
 ---
 
-### 🚀 Stack
+### `whoami`
+
+```yaml
+nome: Denys Santos
+formacao: Engenharia da Computação — UNISAL (em andamento)
+foco: Backend Development
+objetivo: Estágio ou vaga Júnior em desenvolvimento Backend
+stack_principal: Java, Spring Boot, PostgreSQL
+```
+
+---
+
+### 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,html,css,git,github,idea,docker" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DenysRafael&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysRafael&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenysRafael&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ### 📌 Projeto em destaque
 
-#### 🏦 [Bank API](https://github.com/DenysRafael/bank-api)
+<a href="https://github.com/DenysRafael/bank-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DenysRafael&repo=bank-api&theme=dark&hide_border=true" />
+</a>
 
-Sistema bancário com API REST completa para gerenciamento de contas e transações financeiras.
+**🏦 Bank API** — Sistema bancário com REST API completa para gerenciamento de contas e transações.
 
 - Cadastro, depósito e saque de contas bancárias
-- Persistência com **Spring Data JPA** e **PostgreSQL**
-- Deploy em container **Docker**, hospedado no **Render**
+- Persistência com **Spring Data JPA** + **PostgreSQL**
+- Deploy containerizado com **Docker**, hospedado no **Render**
 - Interface web integrada para consumo da API
 
-`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker`
+`Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker` `REST API`
 
 ---
 
 ### 🎓 Formação
 
-- Engenharia da Computação — UNISAL *(em andamento)*
-- Técnico em Informática
+- 🎓 Engenharia da Computação — UNISAL *(em andamento)*
+- 📜 Técnico em Informática
 
 ---
 
