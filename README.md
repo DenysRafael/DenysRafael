@@ -2,21 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Denys+Santos;Backend+Developer+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+Boot+%7C+PostgreSQL" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DenysRafael&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=6DB33F&style=flat" />
-</p>
-
 ---
 
-### `whoami`
+### 👤 Sobre mim
 
-```yaml
-nome: Denys Santos
-formacao: Engenharia da Computação — UNISAL (em andamento)
-foco: Backend Development
-objetivo: Estágio ou vaga Júnior em desenvolvimento Backend
-stack_principal: Java, Spring Boot, PostgreSQL
-```
+| | |
+|---|---|
+| 🎓 **Formação** | Engenharia da Computação — UNISAL (em andamento) |
+| 🎯 **Foco** | Backend Development |
+| 💼 **Objetivo** | Estágio ou vaga Júnior em desenvolvimento Backend |
+| 🧩 **Stack principal** | Java, Spring Boot, PostgreSQL |
 
 ---
 
@@ -31,12 +26,8 @@ stack_principal: Java, Spring Boot, PostgreSQL
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DenysRafael&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysRafael&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenysRafael&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DenysRafael&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DenysRafael&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -44,7 +35,7 @@ stack_principal: Java, Spring Boot, PostgreSQL
 ### 📌 Projeto em destaque
 
 <a href="https://github.com/DenysRafael/bank-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DenysRafael&repo=bank-api&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DenysRafael&repo=bank-api&theme=dark&hide_border=true" />
 </a>
 
 **🏦 Bank API** — Sistema bancário com REST API completa para gerenciamento de contas e transações.
@@ -55,13 +46,6 @@ stack_principal: Java, Spring Boot, PostgreSQL
 - Interface web integrada para consumo da API
 
 `Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker` `REST API`
-
----
-
-### 🎓 Formação
-
-- 🎓 Engenharia da Computação — UNISAL *(em andamento)*
-- 📜 Técnico em Informática
 
 ---
 
