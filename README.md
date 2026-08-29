@@ -25,7 +25,11 @@
 
 ### 📌 Projeto em destaque
 
-**🏦 [Bank API](https://github.com/DenysRafael/bank-api)** — Sistema bancário com REST API completa para gerenciamento de contas e transações.
+<a href="https://github.com/DenysRafael/bank-api">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DenysRafael&repo=bank-api&theme=dark&hide_border=true" />
+</a>
+
+**🏦 Bank API** — Sistema bancário com REST API completa para gerenciamento de contas e transações.
 
 - Cadastro, depósito e saque de contas bancárias
 - Persistência com **Spring Data JPA** + **PostgreSQL**
@@ -33,6 +37,13 @@
 - Interface web integrada para consumo da API
 
 `Java` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Docker` `REST API`
+
+---
+
+### 🎓 Formação
+
+- 🎓 Engenharia da Computação — UNISAL *(em andamento)*
+- 📜 Técnico em Informática
 
 ---
 
