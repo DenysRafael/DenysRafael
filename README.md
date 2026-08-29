@@ -23,22 +23,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DenysRafael&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DenysRafael&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
 ### 📌 Projeto em destaque
 
-<a href="https://github.com/DenysRafael/bank-api">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DenysRafael&repo=bank-api&theme=dark&hide_border=true" />
-</a>
-
-**🏦 Bank API** — Sistema bancário com REST API completa para gerenciamento de contas e transações.
+**🏦 [Bank API](https://github.com/DenysRafael/bank-api)** — Sistema bancário com REST API completa para gerenciamento de contas e transações.
 
 - Cadastro, depósito e saque de contas bancárias
 - Persistência com **Spring Data JPA** + **PostgreSQL**
